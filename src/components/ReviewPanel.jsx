@@ -126,7 +126,7 @@ export default function ReviewPanel({ cart, productData, onQuantityChange, onSav
                     <div className="card p-4 border-0 review-panel-bg">
                         {/* Guarantee Section */}
                         <div className="d-flex gap-3 align-items-center mb-4">
-                            <img src="src/assets/Wyze satisfaction guarantee.png" alt="Guarantee" className="guarantee-img" />
+                            <img src="/assets/Wyze satisfaction guarantee.png" alt="Guarantee" className="guarantee-img" />
                             <div>
                                 <h5 className="h6 mb-1">30-day hassle-free returns</h5>
                                 <p className="text-muted mb-0">If you're not totally in love with the product, we will refund you 100%.</p>
