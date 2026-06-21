@@ -8,22 +8,22 @@
     "basePrice": 35.98,
     "salePrice": 27.98,
     "discountBadge": "Save 22%",
-    "productImage": "./src/assets/Wyze Cam v4 White.png",
+    "productImage": "/assets/Wyze Cam v4 White.png",
     "variants": [
       {
         "id": "white",
         "label": "White",
-        "variantImage": "./src/assets/Wyze Cam v4 White.png"
+        "variantImage": "/assets/Wyze Cam v4 White.png"
       },
       {
         "id": "grey",
         "label": "Grey",
-        "variantImage": "./src/assets/Wyze Cam v4 Gray.png"
+        "variantImage": "/assets/Wyze Cam v4 Gray.png"
       },
       {
         "id": "black",
         "label": "Black",
-        "variantImage": "./src/assets/Wyze Cam v4 Black.png"
+        "variantImage": "/assets/Wyze Cam v4 Black.png"
       }
     ]
   },
@@ -36,17 +36,17 @@
     "basePrice": 39.98,
     "salePrice": 34.98,
     "discountBadge": "Save 12%",
-    "productImage": "./src/assets/Wyze Cam Pan v3 White.png",
+    "productImage": "/assets/Wyze Cam Pan v3 White.png",
     "variants": [
       {
         "id": "white",
         "label": "White",
-        "variantImage": "./src/assets/Wyze Cam Pan v3 White.png"
+        "variantImage": "/assets/Wyze Cam Pan v3 White.png"
       },
       {
         "id": "black",
         "label": "Black",
-        "variantImage": "./src/assets/Wyze Cam Pan v3 Black.png"
+        "variantImage": "/assets/Wyze Cam Pan v3 Black.png"
       }
     ]
   },
@@ -59,17 +59,17 @@
     "basePrice": 89.98,
     "salePrice": 69.98,
     "discountBadge": "Save 22%",
-    "productImage": "./src/assets/Wyze Cam Floodlight v2 White.png",
+    "productImage": "/assets/Wyze Cam Floodlight v2 White.png",
     "variants": [
       {
         "id": "white",
         "label": "White",
-        "variantImage": "./src/assets/Wyze Cam Floodlight v2 White Icon.png"
+        "variantImage": "/assets/Wyze Cam Floodlight v2 White Icon.png"
       },
       {
         "id": "black",
         "label": "Black",
-        "variantImage": "./src/assets/Wyze Cam Floodlight v2 Black.png"
+        "variantImage": "/assets/Wyze Cam Floodlight v2 Black.png"
       }
     ]
   },
@@ -82,7 +82,7 @@
     "basePrice": 69.98,
     "salePrice": null,
     "discountBadge": null,
-    "productImage": "./src/assets/Wyze Duo Cam Doorbell.png"
+    "productImage": "/assets/Wyze Duo Cam Doorbell.png"
   },
   {
     "id": "Wyze Battery Cam Pro",
@@ -93,17 +93,17 @@
     "basePrice": 89.98,
     "salePrice": null,
     "discountBadge": null,
-    "productImage": "./src/assets/Wyze Battery Cam Pro White.png",
+    "productImage": "/assets/Wyze Battery Cam Pro White.png",
     "variants": [
       {
         "id": "white",
         "label": "White",
-        "variantImage": "./src/assets/Wyze Battery Cam Pro White Icon.png"
+        "variantImage": "/assets/Wyze Battery Cam Pro White Icon.png"
       },
       {
         "id": "black",
         "label": "Black",
-        "variantImage": "./src/assets/Wyze Battery Cam Pro Black.png"
+        "variantImage": "/assets/Wyze Battery Cam Pro Black.png"
       }
     ]
   },
@@ -116,7 +116,7 @@
     "basePrice": 12.99,
     "salePrice": 9.99,
     "discountBadge": "Save 24%",
-    "productImage": "./src/assets/Warrenty.png"
+    "productImage": "/assets/Warrenty.png"
   },
   {
     "id": "wyze-sense-motion-sensor",
@@ -127,7 +127,7 @@
     "basePrice": 29.99,
     "salePrice": null,
     "discountBadge": null,
-    "productImage": "./src/assets/Wyze Sense Motion Sensor.png"
+    "productImage": "/assets/Wyze Sense Motion Sensor.png"
   },
   {
     "id": "wyze-sense-hub",
@@ -138,7 +138,7 @@
     "basePrice": 29.92,
     "salePrice": 0,
     "discountBadge": "Save 100%",
-    "productImage": "./src/assets/Wyze Sense Hub.png"
+    "productImage": "/assets/Wyze Sense Hub.png"
   },
   {
     "id": "wyze-microsd-card",
@@ -149,6 +149,6 @@
     "basePrice": 20.98,
     "salePrice": null,
     "discountBadge": null,
-    "productImage": "./src/assets/Wyze MicroSD Card (256GB).png"
+    "productImage": "/assets/Wyze MicroSD Card (256GB).png"
   }
 ]
